@@ -14,6 +14,7 @@ const Chats = () => {
         date: new Date(),
       },
     },
+    
     {
       userInfo: {
         displayName: "Sara William",
@@ -28,7 +29,7 @@ const Chats = () => {
     },
     {
       userInfo: {
-        displayName: "Sara William",
+        displayName: "Taylor William",
         displayImg: "https://picsum.photos/200",
         online: true,
         time: "12:10PM",
