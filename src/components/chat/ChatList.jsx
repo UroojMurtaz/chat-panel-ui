@@ -4,8 +4,9 @@ import Search from "./Search"
 
 const ChatList = () => {
   return (
-    <div className="bg-[#2e7d32] h-full">
+    <div className="bg-[#5fc76e] h-full">
       <ChatListNav/>
+      <hr/>
       <Search/>
       <Chats/>
     </div>

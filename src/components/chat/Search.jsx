@@ -6,7 +6,7 @@ const Search = () => {
     <div className="">
       <div className="p-4">
         <input
-          className=" bg-green-50 w-full px-4 py-2 bg-transparent border border-white text-white outline-none placeholder-lightgray focus:placeholder-gray-300 rounded-lg"
+          className=" bg-slate-100 w-full px-4 py-2 bg-transparent border border-white text-slate-700 outline-none placeholder-lightgray focus:placeholder-gray-300 rounded-lg"
           type="text"
           placeholder="Find a user"
           //   onKeyDown={handleKey}

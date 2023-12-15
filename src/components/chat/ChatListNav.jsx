@@ -2,7 +2,7 @@ import React from "react";
 
 const ChatListNav = () => {
   return (
-    <div className="flex items-center bg-[#1b5e20] h-16 p-2 justify-between text-white">
+    <div className="flex items-center bg-[rgba(95, 199, 110, 1)] h-16 p-2 justify-between text-white">
       {/* <span className="font-bold text-lg">OAP</span> */}
       <div className="flex items-center gap-3 justify-center ">
         <img
